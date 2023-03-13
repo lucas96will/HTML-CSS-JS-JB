@@ -9,32 +9,32 @@ ul {
 }
 
 .icono_auto {
-    background-image: url(auto.jpg);
+    background-image: url(iconos/auto.jpg);
     background-repeat: no-repeat;
 }
 
 .icono_moto {
-    background-image: url(moto.jpg);
+    background-image: url(iconos/moto.jpg);
     background-repeat: no-repeat;
 }
 
 .icono_colectivo {
-    background-image: url(colectivo.jpg);
+    background-image: url(iconos/colectivo.jpg);
     background-repeat: no-repeat;
 }
 
 .icono_avion {
-    background-image: url(avion.jpg);
+    background-image: url(iconos/avion.jpg);
     background-repeat: no-repeat;
 }
 
 .icono_helicoptero {
-    background-image: url(helicoptero.jpg);
+    background-image: url(iconos/helicoptero.jpg);
     background-repeat: no-repeat;
 }
 
 .icono_bicicleta {
-    background-image: url(bicicleta.jpg);
+    background-image: url(iconos/bicicleta.jpg);
     background-repeat: no-repeat;
 }
 
