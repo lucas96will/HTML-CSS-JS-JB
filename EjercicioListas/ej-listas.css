@@ -1,0 +1,49 @@
+.iconos_posicion {
+    background-position: 4px 0px;
+    padding-left: 30px;
+}
+
+ul {
+    /*
+    padding: 15px;
+    margin: 5px;
+    */
+}
+
+p {
+    font-family: monospace;
+    border: 1px solid #ddd;
+    max-width: 100ch;
+    word-wrap:break-word;
+}
+
+.icono_auto {
+    background-image: url(../iconos/auto.jpg);
+    background-repeat: no-repeat;
+}
+
+.icono_moto {
+    background-image: url(../iconos/moto.jpg);
+    background-repeat: no-repeat;
+}
+
+.icono_colectivo {
+    background-image: url(../iconos/colectivo.jpg);
+    background-repeat: no-repeat;
+}
+
+.icono_avion {
+    background-image: url(../iconos/avion.jpg);
+    background-repeat: no-repeat;
+}
+
+.icono_helicoptero {
+    background-image: url(../iconos/helicoptero.jpg);
+    background-repeat: no-repeat;
+}
+
+.icono_bicicleta {
+    background-image: url(../iconos/bicicleta.jpg);
+    background-repeat: no-repeat;
+}
+
